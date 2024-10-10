@@ -14,7 +14,7 @@ This analysis provides insights and recommendations on the following key areas:
   
   iv. **Market Trends**: Identifying shifts in consumer preferences over time.
 
-  An interactive Excel dashboard used to report and explore sales trends download [here](https://github.com/user-attachments/files/17310797/dashboard.1.pdf)
+  An interactive Excel dashboard used to report and explore sales trends download [here](https://github.com/user-attachments/files/17321231/dashboard.1.pdf)
 
   **Data Structure & Initial Checks**
 
@@ -28,11 +28,11 @@ This analysis provides insights and recommendations on the following key areas:
   |Year|  The year the game was released|
   |Genre|  The genre of the game|
   |Publisher|The company responsible for publishing the game|
-  |NA_Sales|  Sales figures specific to North America|
-  |EU_Sales|  Sales figures specific to Europe|
-  |JP_Sales|  Sales figures specific to Japan|
-  |Other_Sales|   Sales from other regions|
-  |Global_Sales|  Total sales figures worldwide|
+  |NA_Sales|  Sales figures specific to North America in millions of units|
+  |EU_Sales|  Sales figures specific to Europe in millions of units|
+  |JP_Sales|  Sales figures specific to Japan in millions of units|
+  |Other_Sales|   Sales from other regions in millions of units|
+  |Global_Sales|  Total sales figures worldwide in millions of units|
 
 Before proceeding with the analysis, the dataset underwent a thorough initial check. Notably, no duplicates were found within the records, ensuring the integrity of the data. An important step taken was converting the sales data types from general format to currency. This adjustment facilitates more precise calculations and visualizations moving forward. Furthermore, the dataset was organized into a structured table format, enhancing its usability for subsequent analytical processes.
 
@@ -44,6 +44,6 @@ The analysis reveals significant trends and insights that are crucial for strate
 
 A snapshot of a dashboard
 
-![dashboard](https://github.com/user-attachments/assets/9143d99b-2ef6-4c91-bb76-155ab90547aa)
+[dashboard (1).pdf](https://github.com/user-attachments/files/17321231/dashboard.1.pdf)
 
 
