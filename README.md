@@ -14,7 +14,7 @@ This analysis provides insights and recommendations on the following key areas:
   
   iv. **Market Trends**: Identifying shifts in consumer preferences over time.
 
-  An interactive Excel dashboard used to report and explore sales trends download [here][dashboard (1).pdf](https://github.com/user-attachments/files/17322071/dashboard.1.pdf)
+  An interactive Excel dashboard used to report and explore sales trends download [here](https://github.com/user-attachments/files/17322071/dashboard.1.pdf)
 
   **Data Structure & Initial Checks**
 
