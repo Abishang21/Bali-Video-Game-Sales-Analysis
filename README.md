@@ -14,7 +14,7 @@ This analysis provides insights and recommendations on the following key areas:
   
   iv. **Market Trends**: Identifying shifts in consumer preferences over time.
 
-  An interactive Excel dashboard used to report and explore sales trends download [here](https://github.com/user-attachments/files/17321231/dashboard.1.pdf)
+  An interactive Excel dashboard used to report and explore sales trends download [here][dashboard (1).pdf](https://github.com/user-attachments/files/17322071/dashboard.1.pdf)
 
   **Data Structure & Initial Checks**
 
@@ -44,7 +44,17 @@ The analysis reveals significant trends and insights that are crucial for strate
 
 A snapshot of a dashboard
 
-![dashboard](https://github.com/user-attachments/assets/ae2e7907-3ffe-42af-b1f9-40373491ede9)
+![dashboard](https://github.com/user-attachments/assets/8823adb3-29c3-49f7-9705-5b5ac1c5b42f)
+
+**Sales Performance**
+
+  The store's total sales reached $8,920.44M, with the highest peak occurring in 2008, when sales topped at $1,787M for that year. 
+
+  Historically, sales have seen a gradual increase from the mid-1990s, with consistent growth into the early 2000s. This surge can be attributed to the popularity of console gaming and the introduction of several hit titles. 
+
+  However, after 2008, the market faced a downturn, with sales decreasing by about 40% by 2012. Despite these challenges, the store managed to retain solid performance across multiple years, indicating a resilient customer base and a steady flow of new releases.
+
+  
 
 
 
