@@ -44,6 +44,6 @@ The analysis reveals significant trends and insights that are crucial for strate
 
 A snapshot of a dashboard
 
-[dashboard (1).pdf](https://github.com/user-attachments/files/17321231/dashboard.1.pdf)
+![dashboard (1).pdf](https://github.com/user-attachments/files/17321231/dashboard.1.pdf)
 
 
