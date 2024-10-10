@@ -95,15 +95,15 @@ Global sales have been fluctuating, showing a decline after 2010, which could be
 
 Based on the insights and findings above, the marketing team should consider the following:
 
-  i. With Action and Sports genres driving the majority of sales, there is a clear opportunity to introduce new titles in these categories to attract even more players. By collaborating with popular publishers or developing exclusive titles in these top-performing genres, the store can increase its market share and keep players engaged.
+  i. With Action and Sports genres driving the majority of sales there is a clear opportunity to introduce new titles in these categories to attract even more players. By collaborating with popular publishers or developing exclusive titles in these top-performing genres the store can increase its market share and keep players engaged.
 
-  ii. Historical sales data shows a peak in sales during certain years and periods, especially around 2008. To capitalize on these trends, it would be wise to enhance promotional efforts during high-traffic seasons (like holidays or new console launches). Offering limited-time discounts or special bundles can help drive more sales during these peak times.
+  ii. Historical sales data shows a peak in sales during certain years and periods especially around 2008. To capitalize on these trends it would be wise to enhance promotional efforts during high-traffic seasons (like holidays or new console launches). Offering limited-time discounts or special bundles can help drive more sales during these peak times.
 
   iii. Strengthening the store’s online presence is crucial for attracting digital-savvy consumers especially when launching new titles. Implementing targeted ads, social media campaigns, and search engine optimization will increase the visibility of new releases thus helping the store tap into a wider audience. 
 
   iv. Partnering with influencers in the gaming community can significantly boost the visibility of new and upcoming titles. Engaging these influencers to review or stream gameplay could lead to a surge in sales, as their followers often trust their recommendations.
 
-  v. With mobile gaming on the rise globally, expanding the store’s portfolio to include mobile-friendly games could attract a new demographic of casual gamers. By offering popular mobile titles or partnering with mobile game developers, the store can capture a growing segment of the gaming market that prefers playing on-the-go.
+  v. With mobile gaming on the rise globally expanding the store’s portfolio to include mobile-friendly games could attract a new demographic of casual gamers. By offering popular mobile titles or partnering with mobile game developers the store can capture a growing segment of the gaming market that prefers playing on-the-go.
 
   vi. Given the success of top-selling games like those in the Action and Sports categories, the store should ensure a steady inventory of these high-demand titles. In addition, negotiating exclusive partnerships with publishers like Nintendo and Electronic Arts could help secure access to highly anticipated future releases giving the store a competitive edge.
 
